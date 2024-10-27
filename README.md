@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gourav Sharma
-#### Software Engineer | Web Developer | Student
+#### Web Developer | Student
 ![Web Developer | Student](https://media1.tenor.com/m/iZ4TBlLkEeUAAAAC/anime.gif)
 
 I am Gourav Sharma, a student with passion and curiosity to learn and develop world changing applications, striving to become a full-stack developer.I am passionate to create innovative and creative dreams of mine into reality and use my potential to help others.
