@@ -36,12 +36,27 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ---
 
-## 🛠 Skills & Abilities  
-- **Front-End Web Development** and **Design**  
-- **Responsive UI/UX Web Design**  
-- **Programming Languages:** JavaScript, TypeScript, Python, C#, Java  
-- **MERN Stack:** MongoDB, Express, React, Node.js  
-- **Project Management Tools:** MS Excel, APIs, Backend Design, Object-Oriented Programming (OOP)
+## 🛠 Technical Skills  
+
+### Front-End Development  
+- Expertise in **Responsive UI/UX Design** and modern **Front-End Web Development**.  
+- Proficient in **HTML**, **CSS**, **JavaScript**, and **TypeScript** for building dynamic and interactive user interfaces.  
+
+### Back-End Development  
+- Skilled in creating scalable server-side solutions using **Node.js**, **Express.js**, and RESTful APIs.  
+- Experience with **GraphQL** for efficient data querying and manipulation.  
+
+### Full-Stack Development  
+- Hands-on experience with the **MERN Stack**: **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
+- Capable of building end-to-end web applications with seamless integration between front-end and back-end systems.  
+
+### Programming Languages  
+- Proficient in **JavaScript**, **Python**, **TypeScript**, **C#**, and **Java** for diverse programming needs.  
+
+### Tools & Technologies  
+- Skilled in **Project Management Tools** such as **MS Excel**, and familiar with APIs and backend system design.  
+- Strong understanding of **Object-Oriented Programming (OOP)** concepts for modular and maintainable code development.  
+
 
 ---
 
