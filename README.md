@@ -41,6 +41,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 ### Front-End Development  
 - Expertise in **Responsive UI/UX Design** and modern **Front-End Web Development**.  
 - Proficient in **HTML**, **CSS**, **JavaScript**, and **TypeScript** for building dynamic and interactive user interfaces.
+- Experience with SEO and web accessibility 
 - Experience with Next.js for server-side rendering (SSR), static site generation (SSG), and optimized performance in React applications.
 
 ### Back-End Development  
