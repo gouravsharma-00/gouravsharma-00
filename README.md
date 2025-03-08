@@ -33,7 +33,13 @@ Skilled in creating immersive user experiences and managing projects effectively
 ### Freelance Python Developer  
 **Duration:** June 2024 – July 2024  
 - Freelanced as a Python developer, creating customized Python scripts for students and peers.  
-
+###  Full Stack Developer and ML Engineer
+**organization** Gramid Agro (Startup)
+**Duration:** Jan 2025 – Feb 2025
+- Developed a full-stack web application using Next.js and MongoDB to support farmers.
+- Built and deployed a machine learning model to predict leaf diseases, improving agricultural productivity.
+- Developed a weather forecasting system using REST API integration.
+- Deployed the entire project on Vercel for seamless access and scalability: [gramid-agro.vercel.app/](https://gramid-agro.vercel.app/).
 ---
 
 ## 🛠 Technical Skills  
@@ -82,6 +88,11 @@ Skilled in creating immersive user experiences and managing projects effectively
 - Developed a comprehensive platform providing **360° virtual tours** of temples in the Mathura-Braj region.  
 - Integrated interactive and immersive user experiences to promote tourism and cultural awareness.  
 
+## [Gramid Agro](https://gramid-agro.vercel.app/)
+- Developed a full-stack web application using Next.js and MongoDB to support farmers.
+- Built and deployed a machine learning model to predict leaf diseases, improving agricultural productivity.
+- Developed a weather forecasting system using REST API integration.
+- Deployed the entire project on Vercel for seamless access and scalability
 ---
 
 Feel free to connect or collaborate!  
