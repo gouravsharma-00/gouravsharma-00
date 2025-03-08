@@ -34,7 +34,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 **Duration:** June 2024 – July 2024  
 - Freelanced as a Python developer, creating customized Python scripts for students and peers.  
 ###  Full Stack Developer and ML Engineer
-**organization** Gramid Agro (Startup)
+**organization:** Gramid Agro (Startup)
 **Duration:** Jan 2025 – Feb 2025
 - Developed a full-stack web application using Next.js and MongoDB to support farmers.
 - Built and deployed a machine learning model to predict leaf diseases, improving agricultural productivity.
