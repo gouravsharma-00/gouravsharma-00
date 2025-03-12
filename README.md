@@ -24,7 +24,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ## 💼 Professional Experience  
 
-### React Developer  
+### Fullstack Developer  
 **Organization:** [merobraj.org](http://www.merobraj.org)  
 **Duration:** Oct 2024 – Present 
 - Led the development of the **Braj Museum** website, a platform offering **360-degree virtual temple tours** to promote cultural heritage.  
