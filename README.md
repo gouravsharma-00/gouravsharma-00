@@ -110,6 +110,11 @@ Skilled in creating immersive user experiences and managing projects effectively
 - Built and deployed a machine learning model to predict leaf diseases, improving agricultural productivity.
 - Developed a weather forecasting system using REST API integration.
 - Deployed the entire project on Vercel for seamless access and scalability
+
+### 💬 AI Chatbot with Gemini API  
+Built a chatbot using Next.js that integrates the Gemini API as an AI agent.  
+Included the ability to switch between cloud-based Gemini and a local agent for flexible usage.  
+Features real-time responses, context handling, and a clean conversational UI.
 ---
 
 Feel free to connect or collaborate!  
