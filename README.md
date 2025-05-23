@@ -5,8 +5,8 @@
 ---
 
 ## 🎯 Summary  
-Passionate and driven Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**.  
-Experienced in **full-stack web development** and **application design**, with a proven ability to deliver innovative solutions.  
+Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**.  
+Experienced in **full-stack web development** and **application design**.
 Skilled in creating immersive user experiences and managing projects effectively.  
 
 ---
@@ -24,27 +24,26 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ## 💼 Professional Experience  
 
-### Fullstack Developer  
+### Fullstack Developer (part time)
 **Organization:** [merobraj.org](http://www.merobraj.org)  
-**Duration:** Oct 2024 – Present 
+**Duration:** Oct 2024 – Mar 2025 
 - Led the development of the **Braj Museum** website, a platform offering **360-degree virtual temple tours** to promote cultural heritage.  
-- Implemented advanced state management techniques to optimize application performance and improve user interactions.
-- Technologies Used: React, RestAPI, MongoDB, Tailwind CSS, Git/GitHub, Vercel, CI/CD
+- Technologies Used: React, RestAPI, MongoDB, Tailwind CSS, Git/GitHub, CI/CD
 
-### Freelance Python Developer  
+### Python Developer (Freelance)
 **Duration:** Aug 2024 – Oct 2024  
 -  Guided students in designing and implementing Python scripts for data processing and automation.
 -  Developed and deployed machine learning models for predictive analytics and image classification tasks.
 -  Technologies Used: Python, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Git/GitHub, Jupyter Notebook
 
-###  Full Stack Developer and ML Engineer
+###  Product Manager (volunteer)
 **organization:** Gramid Agro (Startup)
 **Duration:** Dec 2024 – Feb 2025
-- Developed a full-stack web application using Next.js and MongoDB to support farmers.
-- Built and deployed a machine learning model to predict leaf diseases, improving agricultural productivity.
-- Developed a weather forecasting system using REST API integration.
+- Led end-to-end product development of a farmer-support web platform, coordinating cross-functional efforts across frontend, backend, and ML teams.
+- Oversaw deployment and release cycles on Vercel, ensuring a smooth user experience and scalable infrastructure.
+- Contributed to feature planning for machine learning–powered leaf disease detection, improving the platform’s value proposition.
 - Deployed the entire project on Vercel for seamless access and scalability: [gramid-agro.vercel.app/](https://gramid-agro.vercel.app/).
-- Technologies Used: Next.js, REST API, MongoDB, Tailwind CSS, Git/GitHub, Docker, Vercel, CI/CD,TensorFlow
+- Technologies Used: Next.js, REST API, MongoDB, Tailwind CSS, Git/GitHub, Vercel, CI/CD, TensorFlow
 ---
 
 ## 🛠 Technical Skills  
