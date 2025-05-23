@@ -40,9 +40,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 **organization:** Gramid Agro (Startup)
 **Duration:** Dec 2024 – Feb 2025
 - Led end-to-end product development of a farmer-support web platform, coordinating cross-functional efforts across frontend, backend, and ML teams.
-- Oversaw deployment and release cycles on Vercel, ensuring a smooth user experience and scalable infrastructure.
 - Contributed to feature planning for machine learning–powered leaf disease detection, improving the platform’s value proposition.
-- Deployed the entire project on Vercel for seamless access and scalability: [gramid-agro.vercel.app/](https://gramid-agro.vercel.app/).
 - Technologies Used: Next.js, REST API, MongoDB, Tailwind CSS, Git/GitHub, Vercel, CI/CD, TensorFlow
 ---
 
