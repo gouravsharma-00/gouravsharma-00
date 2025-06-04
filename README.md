@@ -24,24 +24,27 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ## 💼 Professional Experience  
 
-### Fullstack Developer (part time)
-**Organization:** [merobraj.org](http://www.merobraj.org)  
-**Duration:** Oct 2024 – Mar 2025 
-- Led the development of the **Braj Museum** website, a platform offering **360-degree virtual temple tours** to promote cultural heritage.  
-- Technologies Used: React, RestAPI, MongoDB, Tailwind CSS, Git/GitHub, CI/CD
-
-### Python Developer (Freelance)
-**Duration:** Aug 2024 – Oct 2024  
--  Guided students in designing and implementing Python scripts for data processing and automation.
--  Developed and deployed machine learning models for predictive analytics and image classification tasks.
--  Technologies Used: Python, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Git/GitHub, Jupyter Notebook
+### Section Leader, Code in Place (Stanford University) (Volunteer)
+**Duration:** Apr 2025 – May 2025 
+- Volunteered as a Section Leader in Code in Place, a global Python programming course organized by Stanford University.
+- Led weekly live sections of 8–10 students, delivering personalized instruction on Python programming fundamentals and problem-solving strategies.
+- Reviewed coding assignments, provided debugging support, and fostered a collaborative and inclusive learning environment.
+- Technologies and Skills: Python, Karel, Zoom, Communication, Leadership
 
 ###  Product Manager (volunteer)
 **organization:** Gramid Agro (Startup)
 **Duration:** Dec 2024 – Feb 2025
 - Led end-to-end product development of a farmer-support web platform, coordinating cross-functional efforts across frontend, backend, and ML teams.
+- Managed deployment and release cycles on Vercel to ensure optimal user experience and scalable infrastructure.
 - Contributed to feature planning for machine learning–powered leaf disease detection, improving the platform’s value proposition.
 - Technologies Used: Next.js, REST API, MongoDB, Tailwind CSS, Git/GitHub, Vercel, CI/CD, TensorFlow
+
+### Fullstack Developer (part time)
+**Organization:** [merobraj.org](http://www.merobraj.org)  
+**Duration:** Oct 2024 – Dec 2024 
+- Led the development of the **Braj Museum** website, a platform offering **360-degree virtual temple tours** to promote cultural heritage.
+- Optimized application performance and integrated open-source technologies.
+- Technologies Used: React, RestAPI, MongoDB, Tailwind CSS, Git/GitHub, CI/CD
 ---
 
 ## 🛠 Technical Skills  
@@ -101,12 +104,6 @@ Skilled in creating immersive user experiences and managing projects effectively
 ### 🤖 [Machine Learning]()
 - Developed machine learning models to solve real world problems
 - Deployed leaf diseases, fuel and stock market prediction ml models using streamlit.
-
-### 🌾 [Gramid Agro](https://gramid-agro.vercel.app/)
-- Developed a full-stack web application using Next.js and MongoDB to support farmers.
-- Built and deployed a machine learning model to predict leaf diseases, improving agricultural productivity.
-- Developed a weather forecasting system using REST API integration.
-- Deployed the entire project on Vercel for seamless access and scalability
 
 ### 💬 AI Chatbot with Gemini API | [braj-darshan](https://braj-darshan.vercel.app/) 
 - Built a chatbot using Next.js that integrates the Gemini API as an AI agent.  
