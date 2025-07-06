@@ -26,7 +26,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ### Section Leader, Code in Place (Stanford University) (Volunteer)
 **Duration:** Apr 2025 – May 2025 
-- Volunteered as a Section Leader in Code in Place, a global Python programming course organized by Stanford University.
+- Selected as a volunteer Section Leader for Code in Place, a global Python programming course by Stanford University, from a highly competitive pool of 1000+ applicants
 - Led weekly live sections of 8–10 students, delivering personalized instruction on Python programming fundamentals and problem-solving strategies.
 - Reviewed coding assignments, provided debugging support, and fostered a collaborative and inclusive learning environment.
 - Technologies and Skills: Python, Karel, Zoom, Communication, Leadership
