@@ -24,14 +24,14 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ## 💼 Professional Experience  
 
-### Section Leader, Code in Place (Stanford University) (Volunteer)
+### Section Leader, Code in Place (Stanford University)
 **Duration:** Apr 2025 – May 2025 
 - Selected as a volunteer Section Leader for Code in Place, a global Python programming course by Stanford University, from a highly competitive pool of 1000+ applicants
 - Led weekly live sections of 8–10 students, delivering personalized instruction on Python programming fundamentals and problem-solving strategies.
 - Reviewed coding assignments, provided debugging support, and fostered a collaborative and inclusive learning environment.
 - Technologies and Skills: Python, Karel, Zoom, Communication, Leadership
 
-###  Product Manager (volunteer)
+###  Product Manager
 **organization:** Gramid Agro (Startup)
 **Duration:** Dec 2024 – Feb 2025
 - Led end-to-end product development of a farmer-support web platform, coordinating cross-functional efforts across frontend, backend, and ML teams.
@@ -39,7 +39,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 - Contributed to feature planning for machine learning–powered leaf disease detection, improving the platform’s value proposition.
 - Technologies Used: Next.js, REST API, MongoDB, Tailwind CSS, Git/GitHub, Vercel, CI/CD, TensorFlow
 
-### Fullstack Developer (part time)
+### Fullstack Developer
 **Organization:** [merobraj.org](http://www.merobraj.org)  
 **Duration:** Oct 2024 – Dec 2024 
 - Led the development of the **Braj Museum** website, a platform offering **360-degree virtual temple tours** to promote cultural heritage.
