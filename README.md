@@ -32,7 +32,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 - Reviewed coding assignments, provided debugging support, and fostered a collaborative and inclusive learning environment.
 - Technologies and Skills: Python, Karel, Zoom, Communication, Leadership
 
-###  Product Manager
+###  Technical Lead
 **organization:** Gramid Agro (Startup)
 **Duration:** Dec 2024 – Feb 2025
 - Led end-to-end product development of a farmer-support web platform, coordinating cross-functional efforts across frontend, backend, and ML teams.
