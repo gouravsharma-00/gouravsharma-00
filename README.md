@@ -1,5 +1,6 @@
-# Gourav Sharma  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="20" height="15">
-
+# Gourav Sharma 
+**Region:** India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="20" height="15">  
+**Email:** gourav.sharma.glamat2932@gmail.com  
 
 ## 🎯 Summary  
 Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**.  
