@@ -93,7 +93,7 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ## 🌟 Projects  
 
-### 🧠 [Mercury | AI Manager](https://mercury-three-red.vercel.app/)
+### 🧠 [Mercury | AI Manager](https://github.com/gouravsharma-00/Mercury)
 - AI-powered GitLab-integrated tool for automatic code reviews and Markdown report generation.
 - Uses Next.js 15, Gitlab API's, and Google Cloud AI/Gemini to analyze code and write structured feedback on every commit.
 - Seamlessly integrates with GitLab using OAuth2 and GitLab API.
