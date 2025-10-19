@@ -2,14 +2,12 @@
 **Region:** India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="20" height="15">  
 **Email:** gourav.sharma.glamat2932@gmail.com  
 
-## 🎯 Summary  
-Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**.  
-Experienced in **full-stack web development** and **application design**.
-Skilled in creating immersive user experiences and managing projects effectively.  
-
+## 🎯 SUMMARY  
+ Computer Science student with experience in full-stack development and application design. Skilled in delivering innovative
+ solutions, building user-focused applications
 ---
 
-## 🎓 Education  
+## 🎓 EDUCATION  
 - **Higher Secondary Education**  
   *Army Public School, Mathura, India*  
   **May 2023**
@@ -20,41 +18,26 @@ Skilled in creating immersive user experiences and managing projects effectively
 
 ---
 
-## 💼 Professional Experience  
+## 💼 PROFESSIONAL EXPERIENCE  
 
 ### Section Leader
 **organization:** Code in Place (Stanford University)
 **Duration:** Apr 2025 – May 2025 
-- Selected as a volunteer Section Leader for Code in Place, a global Python programming course by Stanford University, from a highly competitive pool of 1000+ applicants
-- Led weekly live sections of 8–10 students, delivering personalized instruction on Python programming fundamentals and problem-solving strategies.
-- Reviewed coding assignments, provided debugging support, and fostered a collaborative and inclusive learning environment.
-- Technologies and Skills: Python, Karel, Zoom, Communication, Leadership
-
-###  Technical Lead
-**organization:** Gramid Agro (Startup)
-**Duration:** Dec 2024 – Feb 2025
-- Led end-to-end product development of a farmer-support web platform, coordinating cross-functional efforts across frontend, backend, and ML teams.
-- Managed deployment and release cycles on Vercel to ensure optimal user experience and scalable infrastructure.
-- Contributed to feature planning for machine learning–powered leaf disease detection, improving the platform’s value proposition.
-- Technologies Used: Next.js, REST API, MongoDB, Tailwind CSS, Git/GitHub, Vercel, CI/CD, TensorFlow
+- Selected as a volunteer Section Leader for Code in Place, a global Python programming course by Stanford University, from a highly competitive pool of 1000+ applicants.
+- Taught 8–10 students weekly, delivering personalized instruction on Python programming fundamentals and problem-solving strategies and fostered a collaborative and inclusive learning environment.
 
 ### Fullstack Developer
 **Organization:** [merobraj.org](http://www.merobraj.org)  
 **Duration:** Oct 2024 – Dec 2024 
-- Led the development of the **Braj Museum** website, a platform offering **360-degree virtual temple tours** to promote cultural heritage.
-- Optimized application performance and integrated open-source technologies.
-- Technologies Used: React, RestAPI, MongoDB, Tailwind CSS, Git/GitHub, CI/CD
+- Developed and deployed merobraj.org, a cultural heritage platform enabling 360° virtual temple tours using modern web technologies.
+- Improved application performance by 25% through front-end optimization and efficient database queries, resulting in higher user retention and engagement.
 
 ---
 
-## 🏆 Certifications  
-- Successfully completed certifications in:  
-  - **JavaScript**  
-  - **Python**  
-  - **C#**  
-  - **Object-Oriented Programming (OOP)**  
-  - **TypeScript**  
-  - **Responsive Web Design**  
+## 🏆 ACHIEVEMENTS & CERTIFICATIONS  
+- Microsoft Certified: **Azure AI-900 (AI Fundamentals)**; Oracle Certified: **Data Science Professional**.
+- Successfully completed certifications in: **JavaScript**, **Python**, **C#**, **Object-Oriented Programming (OOP)**, **Responsive Web Design**.
+-  Completed **Micro Experience Program** in **Data Analytics** – devised logic to detect incorrect weight-volume entries in consignments during pickup & **Virtual Internship** at VOIS in **Data Analytics**
 
 ---
 
