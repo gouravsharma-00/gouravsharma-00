@@ -1,7 +1,7 @@
 # Gourav Sharma 
 **Region:** India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="20" height="15">  
 **Email:** gourav.sharma.glamat2932@gmail.com  
-**Website:** 🌐 [theicedev.tech](https://theicedev.tech)
+🌐 [theicedev.tech](https://theicedev.tech) 
 
 ## 🎯 SUMMARY
 
