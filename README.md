@@ -8,13 +8,14 @@
 ---
 
 ## 🎓 EDUCATION  
+- **Bachelor of Technology in Computer Science**  
+  *Specialization in AI/ML and IoT, GLA University, Mathura, India*  
+  **Aug 2023 – June 2027**
+  
 - **Higher Secondary Education**  
   *Army Public School, Mathura, India*  
   **May 2023**
 
-- **Bachelor of Technology in Computer Science**  
-  *Specialization in AI/ML and IoT, GLA University, Mathura, India*  
-  **Aug 2023 – June 2027**
 
 ---
 
@@ -25,22 +26,24 @@
 
 **Duration:** Apr 2025 – May 2025 
 
-- Selected as a volunteer Section Leader for Code in Place, a global Python programming course by Stanford University, from a highly competitive pool of 1000+ applicants.
-- Taught 8–10 students weekly, delivering personalized instruction on Python programming fundamentals and problem-solving strategies and fostered a collaborative and inclusive learning environment.
+-  Selected as a Section Leader for Stanford’s Code in Place program from 1000+ applicants, supporting students in developing Python programming and computational thinking skills.
+- Delivered weekly guided coding sessions for 8–10 learners, teaching problem-solving strategies, debugging techniques, and foundational software engineering concepts while fostering an inclusive and collaborative learning environment.
 
 ### ✨ Fullstack Developer
 **Organization:** [merobraj.org](http://www.merobraj.org)  
 
 **Duration:** Oct 2024 – Dec 2024 
-- Developed and deployed merobraj.org, a cultural heritage platform enabling 360° virtual temple tours using modern web technologies.
-- Improved application performance by 25% through front-end optimization and efficient database queries, resulting in higher user retention and engagement.
+- Designed, developed, and deployed merobraj.org, a real-world cultural heritage platform providing 360° virtual temple tours, solving accessibility challenges using modern full-stack web technologies.
+- Optimized front-end rendering, improving application performance by 25% and increasing user engagement and retention.
+- Experimented with new tools and iterative development practices to enhance user experience, demonstrating continuous learning, curiosity, and a focus on building impactful solutions.
 
 ---
 
 ## 🏆 ACHIEVEMENTS & CERTIFICATIONS  
-- Microsoft Certified: **Azure AI-900 (AI Fundamentals)**; Oracle Certified: **Data Science Professional**.
-- Successfully completed certifications in: **JavaScript**, **Python**, **C#**, **Object-Oriented Programming (OOP)**, **Responsive Web Design**.
--  Completed **Micro Experience Program** in **Data Analytics** – devised logic to detect incorrect weight-volume entries in consignments during pickup & **Virtual Internship** at VOIS in **Data Analytics**
+- **Winner**– **“Tidy The Hack Up II”** Hackathon; active participant in competitive coding and innovation hackathons.
+- Microsoft Certified: **Azure AI-900 (AI Fundamentals)**; Oracle Certified: **Data Science Professional**; Microsoft Learn: **C# Fundamentals Certification**
+- Completed **Micro Experience Program** in **Data Analytics** – devised logic to detect incorrect weight-volume entries in consignments during pickup
+- **Virtual Internship** at VOIS in **Data Analytics**
 
 ---
 
