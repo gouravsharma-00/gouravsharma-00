@@ -1,11 +1,10 @@
 # Gourav Sharma 
 **Region:** India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="20" height="15">  
 **Email:** gourav.sharma.glamat2932@gmail.com  
-🌐 [theicedev.tech](https://theicedev.tech) 
 
 ## 🎯 SUMMARY
 
-- **Computer Science** student with experience in full-stack development and application design. Skilled in delivering innovative solutions, building user-focused applications
+- **🎓 Computer Science** student skilled in full-stack development, focused on solving problems and building innovative software solutions. Experienced in creating user-centric applications. 🌐 [theicedev.tech](https://theicedev.tech) 
 ---
 
 ## 🎓 EDUCATION  
