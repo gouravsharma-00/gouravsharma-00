@@ -13,7 +13,7 @@
 ### ✨ Section Leader
 **Organization:** [Code in Place (Stanford University)](https://online.stanford.edu/)
 
-**Duration:** Apr 2025 – May 2025 
+**Duration:** Apr 2025 – Jun 2025 
 
 - Served as a Section Leader for Stanford’s Code in Place to mentor a cohort of 10+ global students in Python programming and computational problem-solving.
 - Conducted weekly live coding sessions, improving student assignment completion rates by 30%.
